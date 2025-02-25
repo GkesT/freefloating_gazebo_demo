@@ -18,5 +18,11 @@
   <depend>nav_msgs</depend>
   
   <build_depend>freefloating_gazebo</build_depend>
+  <build_depend>std_srvs</build_depend>
+
+  <build_export_depend>std_srvs</build_export_depend>
+  
+
+  <exec_depend>std_srvs</exec_depend>
 
 </package>

@@ -5,6 +5,7 @@ find_package(catkin REQUIRED COMPONENTS
     roscpp
     sensor_msgs
     nav_msgs
+    std_srvs
 )
 
 catkin_package(
@@ -13,6 +14,7 @@ catkin_package(
     roscpp
     sensor_msgs
     nav_msgs
+    std_srvs
 )
 
 install(DIRECTORY
